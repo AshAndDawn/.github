@@ -1,1 +1,1 @@
-# Ash and Dawn Modding Organization
+# Ash and Dawn Modding
