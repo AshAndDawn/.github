@@ -1,2 +1,1 @@
-# .github
-Organization Branding
+# Ash and Dawn Modding
